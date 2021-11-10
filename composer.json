@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/file",
+    "name"       : "immediate-media/hoa-file",
     "description": "The Hoa\\File library.",
     "type"       : "library",
     "keywords"   : ["library", "file", "directory", "finder", "link",
@@ -24,11 +24,11 @@
         "source": "https://central.hoa-project.net/Resource/Library/File"
     },
     "require": {
-        "hoa/consistency": "~1.0",
-        "hoa/event"      : "~1.0",
-        "hoa/exception"  : "~1.0",
-        "hoa/stream"     : "~1.0",
-        "hoa/iterator"   : "~2.0"
+        "immediate-media/hoa-consistency": "~1.0",
+        "immediate-media/hoa-event"      : "~1.0",
+        "immediate-media/hoa-exception"  : "~1.0",
+        "immediate-media/hoa-stream"     : "~1.0",
+        "immediate-media/hoa-iterator"   : "~2.0"
     },
     "require-dev": {
         "hoa/test": "~2.0"
